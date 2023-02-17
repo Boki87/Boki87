@@ -30,7 +30,7 @@
     ],
     "currently_learning" : ["Rust"],
     "2023 Goals" : ["Keep learning rust", "Crate one profitable side project"],
-    "hobbies" : ["Football (Soccer)", "Art/Drawing"]
+    "hobbies" : ["Football (Soccer)", "Drawing", "Reading"]
 }
 ```
 
