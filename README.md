@@ -19,13 +19,13 @@
         }
     },
     "work_projects" : [
-        "PHP API's",
-        "Node API's (Express JS)",
-        "SPA's in Vanilla JS, React JS, Vue JS",
+        "PHP and NODE REST API's",
+        "SPA's in Vanilla JS, React and Vue",
         "Hybrid MacOs and iOS apps"
     ],
     "fields_of_interest" : [
         "Web Development",
+        "Desktop app development",
         "UI/UX"
     ],
     "currently_learning" : ["Rust"],
