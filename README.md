@@ -29,8 +29,8 @@
         "UI/UX"
     ],
     "currently_learning" : ["Rust"],
-    "2023 Goals" : ["Keep learning rust", "Crate one profitable side project"],
-    "hobbies" : ["Football (Soccer)", "Drawing", "Reading"]
+    "2023 Goals" : ["Crate one profitable side project"],
+    "hobbies" : ["Football", "Drawing", "Reading"]
 }
 ```
 
