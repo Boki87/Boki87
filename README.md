@@ -5,7 +5,6 @@
 ```json
 {
     "name": "Bojan Peric",
-    "citizen_of" : "🇺🇸 & 🇷🇸",
     "currently_located_in": "Pozarevac, Serbia 🇷🇸",
     "current_job": "Full Stack Developer",
     "education": {
