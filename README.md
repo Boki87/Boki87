@@ -27,7 +27,7 @@
         "Desktop app development",
         "UI/UX"
     ],
-    "currently_learning" : ["Rust"],
+    "currently_learning" : ["GO"],
     "2023 Goals" : ["Crate one profitable side project"],
     "hobbies" : ["Football", "Drawing", "Reading"]
 }
