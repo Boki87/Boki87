@@ -12,9 +12,13 @@
         "2016 - 2017" : "Coding Bootcamp - Full Stack (PHP, Javascript)"
     },
     "work": {
-        "2018 - present" : {
+        "2018 - 2023" : {
             "company" : "Recognite ltd",
             "role" : "Full Stack Developer"
+        },
+        "2023 - present" : {
+            "company" : "Mozaiq",
+            "role" : "FrontEnd Developer"
         }
     },
     "work_projects" : [
